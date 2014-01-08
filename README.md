@@ -306,4 +306,8 @@ There's nothing worse then staring at a page full of dense, plain text. Even if 
 Break up the approach and make the process of reading your book easier by including visual or illustrative elements, such as bullet points, illustrations, sidebars, and code where it makes sense to do so. Your book's topic is not simple to learn (that's why there's a need for a book on it!), so ease your reader's pain by lightening up the appearance.
 
 
+## References
 
+* [O'Reilly Author Portal - Reaching Readers](http://www.oreilly.com/authors/welcome/reachingreaders.csp)
+* [Writing Style Guide - Rubenstein](http://reubenstein.com/UserFiles/File/Reubenstein%20Style%20Guide(1).pdf)
+* [MailChimp Authoring Style Guide](http://mailchimp.com/about/style-guide/)
