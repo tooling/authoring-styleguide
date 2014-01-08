@@ -1,4 +1,3 @@
-
 Using this style guidance will help us make the content in our books readable and understandable.
 
 ## Tone
@@ -21,7 +20,7 @@ Our voice is human. It’s familiar, it’s friendly, and it’s straightforward
 
 ## Addressing the user
 
-Address the user as ‘you’ where possible. Content on the site often makes a direct appeal to citizens and businesses to get involved or take action, eg ‘You can contact HMRC by phone and email’ or ‘Pay your car tax’.
+Address the user as ‘you’ where possible. 
 
 ## Avoid duplication
 
