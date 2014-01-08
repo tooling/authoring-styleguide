@@ -1,3 +1,5 @@
+## Authoring Style Guide
+
 Using this style guidance will help us make the content in our books readable and understandable.
 
 ## Tone
@@ -96,6 +98,32 @@ Every element in the book is an opportunity to share your knowledge, and caption
 ## Scenarios
 
 How many times have you opened up a book that starts with an overview? Those are boring to read. Here is an example of an opening that will engage your readers: "Your boss walks in and tells you he needs a new feature added to an application by the end of the day. You realize you are in trouble: the guy who designed the application is on vacation. Now what do you do?" Scenarios provide a way for the reader to internalize a problem and become invested in learning about the solution.
+
+## Rules of writing 
+ 
+Most people have the tools that make a good writer but are blissfully unaware of the 
+rules. This section is intended to point out some very common errors and traps to avoid in 
+your writing. 
+ 
+### One thought per sentence 
+
+The golden rule for the most basic unit of writing is one thought per sentence. Never 
+break this rule! 
+ 
+### One theme per paragraph 
+
+A paragraph consists of a topic sentence, followed by sentences that embellish or 
+provide explanation of that idea. If you introduce a new idea or theme it deserves a 
+new paragraph. 
+ 
+There is never a need to cram every single detail about something into one paragraph. Long paragraphs are daunting and off-putting for readers. 
+ 
+Short paragraphs that get to the point attract readers. 
+ 
+If you read a paragraph of your, or anybody else’s, work and you get to the end without 
+remembering the first sentence this usually means two things. It is far too long and/or it 
+has more than one theme. Put simply, it is a bad paragraph. 
+
 
 ## What to Avoid
 
