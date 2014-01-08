@@ -124,6 +124,150 @@ If you read a paragraph of your, or anybody else’s, work and you get to the en
 remembering the first sentence this usually means two things. It is far too long and/or it 
 has more than one theme. Put simply, it is a bad paragraph. 
 
+## Punctuation
+ 
+Again one of the most misused tools of writing. Most importantly a number of different 
+people applying numerous differed methods of punctuation can be sloppy and 
+presents a substandard image of our work. 
+ 
+Always remember punctuation is a tool to make your work easier to read not more 
+complicated. Following is a list of punctuation marks and how they should be used. 
+ 
+You can get by your entire life using just the full stop and comma. You could write a 
+book using only full stops and commas. So don’t go overboard trying to use the others — 
+particularly if you don’t know how to apply them properly. 
+
+### Full stop 
+
+Your best friend, if in doubt stop a sentence. Then start a new one. 
+ 
+### Comma 
+
+Use it as a break in a sentence between primary and secondary thoughts. It can be 
+used to indicate a pause, like this one, before the reader continues. If in doubt use a full 
+stop. 
+ 
+### Colon 
+
+It’s a good idea to generally limit yourself to using colons in one of two ways, to 
+introduce a list or before a direct quote. 
+ 
+The company’s products include: wombat cola, koala cooler and blowfly beer. 
+ 
+The Chairman stated: ‘We are very pleased with our products.’ 
+(in this instance a comma can replace the colon) 
+
+### Semicolon
+
+Separates items in a list when there are multiple clauses within individual items. A 
+semicolon can replace conjunctions but it is far simpler to use a comma. 
+ 
+The company has three main business units; forestry management, its original business; 
+timber milling, acquired in 1984; and reconstituted wood products, established in 1996. 
+ 
+**Remember, when using semicolons the word AND comes after the last semicolon**
+
+### Dash 
+
+The dash is generally an informal writing tool. For the most part it is a substitute for 
+commas. Some very good writers never use dashes, others adapt them to their writing 
+style and only to be used in certain instances. The most effective use of the dash is to 
+introduce an afterthought or a point that strongly reinforces the first part of the 
+sentence. 
+ 
+As you can get by without using dashes you probably should. Never use a dash to 
+introduce a list. That is the job of a colon. 
+ 
+Also, the dash symbol is not on your computer keyboard. The key immediately to the 
+right of the ‘0’ is a hyphen. The dash can be found by selecting the ‘Insert’ menu the top 
+toolbar in Microsoft Word, then select ‘Symbol’.
+
+### Hyphen 
+
+This joins two or more words that when compounded are common expressions. 
+ 
+Short-term, day-to-day, high-tech. 
+ 
+Hyphens also add prefixes to nouns 
+
+anti-development, non-core, 50%-owned 
+
+
+### Inverted commas (or quotation marks) 
+
+There are two types ‘single’ inverted commas and “double”. They mean the same thing 
+but the double inverted comma is the most accepted. 
+ 
+Double inverted commas encapsulate quoted remarks, while single inverted commas 
+highlighted quoted words or highlight words not used in a literal sense. 
+He said, “This is a brilliant product.” 
+ 
+Management stated the result was ‘very disappointing’ in light of its past performance. 
+ 
+He has been described as the ‘king’ of corporate failures. 
+
+### Brackets or parenthesis 
+
+These should only ever be used to explain or add information NOT to provide wordy 
+commentaries or opinions that belong in new sentences. Correct examples are: 
+ 
+He is an executive at OneSteel (formerly owned by BHP). 
+ 
+The number of unclaimed life insurance policies in Australia has risen dramatically in the 
+past five years (see table below) 
+
+### Italics 
+
+Should be used primarily in place of inverted commas. For most purposes, limit italics to 
+the description of proper names. 
+ 
+PBL’s leading magazine titles include: **The Developer, Cleo** and **Developer’s Weekly**.
+
+### Bullet points
+
+The greatest misconception about these is that the ‘bullet’ in bullet point is a noun 
+describing the punctuation mark, or pointer, that introduces a phrase or sentence. It is a 
+metaphor used to describe the point you are making, i.e. it is a fast, snappy point — just 
+like a bullet. 
+ 
+Bullet points can be very useful in highlighting points or summarising arguments. But 
+remember they should: 
+ 
+- be short; 
+- not introduce new lines of argument; 
+- each tie in to the phrase that introduces them; 
+- be in lower case, as each statement ties into the qualifying phrase; and 
+- be separated by semi-colons. 
+
+In some instances, bullet points can be used to introduce a list in which case they should 
+read thus. Note, full stops are not required because these bullet points are not sentences 
+ 
+The main points of this course are as follows: 
+ 
+- Writing style 
+- Tools of writing 
+- Rules of writing 
+- Punctuation
+- 
+
+### Spaced ellipses . . . 
+
+These are often used and most often misused. An ellipsis is literally a break in a sentence, 
+or an omission which would otherwise clarify the meaning of the sentence or phrase. It is 
+not a vague piece of stylised punctuation; it is proper punctuation and is always three 
+full stops separated by single spaces (from each other and any text that appears on 
+either side). 
+ 
+There are two common uses for spaced ellipses; to emphasise a point, where the 
+intention is to leave the reader contemplating that point and to join two abbreviated 
+direct quotes. In the second case spaced ellipses can be used to edit a quote where by 
+the ellipses replace text. Examples are: 
+ 
+The end of the beginning . . . 
+ 
+He said: “This was a crucial episode in the history of this organisation . . . I have no doubt 
+we will emerge stronger.” 
+
 
 ## What to Avoid
 
