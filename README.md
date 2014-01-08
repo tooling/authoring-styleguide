@@ -124,6 +124,26 @@ If you read a paragraph of your, or anybody else’s, work and you get to the en
 remembering the first sentence this usually means two things. It is far too long and/or it 
 has more than one theme. Put simply, it is a bad paragraph. 
 
+### Always have a start, middle and an end 
+
+Academics tell you that any written essay or report must have an introduction, body 
+and a conclusion. This is one of the reasons you don’t see too many academics running 
+around in the business world. 
+ 
+According to the highly flawed academic model, a story must begin with an 
+introduction of all the arguments. Then it must extrapolate the already introduced 
+themes. Finally, it tells you how you arrived at the end by simply repeating the beginning. 
+But if you tell a story properly in the first place there would be no need to explain to your 
+reader how you got to the end. 
+ 
+Start, Middle and End are vastly different to Introduction, Body and Conclusion. Think of 
+it as a journey. By its very definition, Start — Middle — End, moves you from one point 
+to another. 
+ 
+However! The start of any piece of good written work should introduce the main theme 
+in the very first sentence. Never repeat the sentence but it is an often powerful 
+technique to finish a written piece on the same theme — coming full circle. 
+
 ## Punctuation
  
 Again one of the most misused tools of writing. Most importantly a number of different 
@@ -221,7 +241,7 @@ past five years (see table below)
 Should be used primarily in place of inverted commas. For most purposes, limit italics to 
 the description of proper names. 
  
-PBL’s leading magazine titles include: **The Developer, Cleo** and **Developer’s Weekly**.
+PBL’s leading magazine titles include: *The Developer, Cleo* and *Developer’s Weekly*.
 
 ### Bullet points
 
