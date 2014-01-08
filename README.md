@@ -1,6 +1,6 @@
 ## Authoring Style Guide
 
-Using this style guidance will help us make the content in our books readable and understandable.
+Whether you’re writing a chapter, a research document, or a something else, this style guide will cover some grammar basics and standards for writing engaging content.
 
 ## Tone
 
