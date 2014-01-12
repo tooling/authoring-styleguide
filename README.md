@@ -309,5 +309,5 @@ Break up the approach and make the process of reading your book easier by includ
 ## References
 
 * [O'Reilly Author Portal - Reaching Readers](http://www.oreilly.com/authors/welcome/reachingreaders.csp)
-* [Writing Style Guide - Rubenstein](http://reubenstein.com/UserFiles/File/Reubenstein%20Style%20Guide(1).pdf)
+* [Writing Style Guide - Rubenstein](http://reubenstein.com/UserFiles/File/Reubenstein%20Style%20Guide\(1\).pdf)
 * [MailChimp Authoring Style Guide](http://mailchimp.com/about/style-guide/)
